@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Street Feed</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <string name="enter_shop_address">Shop Address</string>
+    <string name="landmark">landmark</string>
+    <string name="enter_mobile_number">Contact Number</string>
+    <string name="enter_adhar_card_number">Adhar Card Number</string>
+    <string name="category_of_shop">Shop Category</string>
+    <string name="empty_value">Cannot be empty</string>
+    <string name="invalid_prompt">Invalid</string>
+    <string name="add_items_in_cart">Add Items in cart</string>
+    <string name="enter_otp">Enter Otp</string>
+    <string name="verify_otp">Verify Otp</string>
+    <string name="click_here">Please Click Here</string>
+    <string name="uploading_img">Uploading Shop Image</string>
+    <string name="vendor_info">Vendor Information</string>
+    <string name="invalid">Invalid</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
