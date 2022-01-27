@@ -31,6 +31,7 @@ This is Acedmic group project completed in timeline April 2021 to June 2021
 
 ## Snapshots of Application
 ![imgonline-com-ua-resize-B9VgtllKg3QgGWyP](https://user-images.githubusercontent.com/61350027/151413815-b5fe27f5-fd72-4bc5-9af3-1bef3711a65b.jpg)
+![imgonline-com-ua-resize-pXi4kVrfWHDA](https://user-images.githubusercontent.com/61350027/151424689-2998967f-d500-4030-842f-009090a5964f.jpg)
 
 
     
