@@ -28,6 +28,10 @@ This is Acedmic group project completed in timeline April 2021 to June 2021
    ``` User/buyer side feature```
 - Can see Feed of vendors in locality
 - Can locate and call vendor shop
+
+## Snapshots of Application
+![Screenshot_2022-01-27-22-50-24-277_com example streetfeed](https://user-images.githubusercontent.com/61350027/151411517-0dedb910-95e2-440c-8038-2b6980e74de3.jpg)
+
     
 ## Group Members: 
 ```
